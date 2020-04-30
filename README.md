@@ -1,1 +1,1 @@
-# This is a craiglist app
+# This is a craigslist app
